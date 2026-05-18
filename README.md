@@ -1,5 +1,5 @@
-# 📊 Customer Churn Analysis | Data Analytics Project
-
+# 📊 Customer Churn Analysis
+### End-to-End Data Analytics Project
 ## 📌 Problem Statement
 
 Analyze customer churn behavior to identify why customers leave the telecom company and provide business recommendations to reduce churn.
